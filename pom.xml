@@ -16,5 +16,6 @@
         <module>zipkin-service</module>
         <module>config-service</module>
         <module>eureka-service</module>
+        <module>bootadmin-service</module>
     </modules>
 </project>
