@@ -68,6 +68,7 @@
                 <artifactId>spring-cloud-dependencies</artifactId>
                 <version>${spring-cloud.version}</version>
                 <type>pom</type>
+                <!--not using config server-->
                 <!--<scope>import</scope>-->
             </dependency>
         </dependencies>
